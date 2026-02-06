@@ -1,0 +1,3 @@
+versión 1
+uno
+otra línea
